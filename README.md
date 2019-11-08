@@ -30,4 +30,4 @@ The contributing model consists of the following process:
 This is the final project of Big Data and Fintech Practices class in 2019 Spring semester.
 
 ## License
-MIT © [Yung-Lin Chang](),[Chian-Fang Chiu]()
+MIT © [Yung-Lin Chang](), [Chian-Fang Chiu]()
