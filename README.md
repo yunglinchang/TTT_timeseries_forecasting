@@ -1,5 +1,5 @@
 # Time Series Forecasting using AI Modeling 
-This projects aims to predict which ratio (alpha and beta ratios) perform better on Taiwan Top50 Tracker Fund. The regression models including LightGBM, Random Forest and XGBoost are built based on the ranked information coefficient (Ranked IC) of the fund. **The results showed that, by solely using alpha ratios, the total stock return performance exceeded the ROI of the Taiwan Capitalization Weighted Stock Index (TAIEX) by 20%.**
+This project aims to predict which ratio (alpha and beta ratios) performs better on Taiwan Top50 Tracker Fund. The regression models including LightGBM, Random Forest, and XGBoost are built based on the ranked information coefficient (Ranked IC) of the fund. **The results showed that, by solely using alpha ratios, the total stock return performance exceeded the ROI of the Taiwan Capitalization Weighted Stock Index (TAIEX) by 20%.**
 
 
 ## Build status
